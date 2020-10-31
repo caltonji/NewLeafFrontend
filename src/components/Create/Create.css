@@ -1,0 +1,22 @@
+.create__paper {
+    padding: 40px;
+    margin: auto;
+    max-width: 500px;
+    margin-top: 100px;
+}
+
+.create__full {
+    width: 100%;
+}
+
+.create__button {
+    margin-top: 2em;
+}
+
+.create__createbuttonwrapper {
+    position: relative
+}
+
+.create__createbuttonspinner {
+    position: absolute;
+}

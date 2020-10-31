@@ -1,0 +1,10 @@
+html, body, #root, .App {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.app__routercontainer {
+    padding-top: 2em;
+}

@@ -1,0 +1,55 @@
+.newsubmission__dropzonecontainer {
+    padding-top: 32px;
+}
+
+
+.newresponse__card {
+    height: 100%;
+}
+
+.newresponse__cardmedia {
+    padding-top: 100%;
+}
+
+.newresponse__textfieldcontainer {
+    padding-top: 32px;
+}
+
+.submission__image {
+    object-fit: contain;
+}
+
+.newresponses__button {
+    margin-left: 32px !important;
+}
+
+.artcard__cardactionarea {
+    height: 100%;
+}
+
+.viewsubmissions__submissioncontainer {
+    display: contents;
+}
+
+.submission__nameheader {
+    padding-left: 16px;
+    padding-top: 16px;
+}
+
+.viewsubmissions__responsecontainer {
+    padding-left: 16px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+}
+
+.newresponse__buttonprogress {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -12px;
+    margin-left: -12px;
+}
+
+.returninguser__hiddenloader {
+    display: none;
+}
