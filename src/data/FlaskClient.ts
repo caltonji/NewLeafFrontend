@@ -5,7 +5,7 @@ const defaultTemplateId = "AltonjiTemplate2";
 // assuming the base url might work in prod. Not sure.
 const baseUrl =  process.env.NODE_ENV === 'development'
     ? "http://0.0.0.0:8000"
-    :  "https://artshare-backend-b2.azurewebsites.net";
+    :  "https://newleafclubbackend.azurewebsites.net";
 // const baseUrl = "https://artshare-backend-b2.azurewebsites.net";
 
 export interface IUser {
